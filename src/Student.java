@@ -7,7 +7,6 @@ public class Student {
     }
     public void introduction() {
         System.out.println("Hi, my name is " + name + " and I am in grade " + year + ".");
-        System.out.println();
     }
     public void studentInfo() {
         System.out.println("Name: " + name + "\nGrade: " + year);
